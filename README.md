@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966"
 
-- 🌱 I’m currently learning **everything about Web Development , AI-ML.**
+🌱 I’m currently learning **everything about Web Development , AI-ML.**
 
-- 💬 Ask me about **Web Development**
+💬 Ask me about **Web Development**
 
-- 📫 How to reach me **tanyasom387@gmail.com**
+📫 How to reach me **tanyasom387@gmail.com**
 
-- ⚡ Fun fact **The only code I write without any errors : "Hello World".**
+⚡ Fun fact **The only code I write without any errors : "Hello World".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
